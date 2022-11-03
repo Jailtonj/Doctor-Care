@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[Clique aqui para acessar] (https://jailtonj.github.io/Game-Hub)
+[Clique aqui para acessar] (https://jailtonj.github.io/Doctor-Care/)
 
 ## 🛠 Tecnologias
 
